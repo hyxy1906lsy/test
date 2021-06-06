@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="boke" />
+        <module name="cl" />
+        <module name="houqin" />
+        <module name="jiudian" />
+        <module name="shop" />
+        <module name="TestSSM" />
+        <module name="xinwen" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="boke" target="1.6" />
+      <module name="cl" target="1.6" />
+      <module name="houqin" target="1.6" />
+      <module name="jiudian" target="1.6" />
+      <module name="shop" target="1.6" />
+      <module name="TestSSM" target="1.6" />
+      <module name="xinwen" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
